@@ -7,7 +7,7 @@ Table of contents
 -----------------
 
 1. [Tidy data](./doc/1_tidy_data.ipynb)
-1. [Reading text files into DataFrames](2_reading_text_files_into_dataframes.ipynb)
+1. [Reading text files into DataFrames](./doc/2_reading_text_files_into_dataframes.ipynb)
 1. [Basic DataFrame operations](./doc/3_basic_dataframe_operations.ipynb)
 1. [Selecting and indexing](./doc/4_selecting_and_indexing.ipynb)
 1. [Adding columns and rows](./doc/5_adding_columns_and_rows.ipynb)
